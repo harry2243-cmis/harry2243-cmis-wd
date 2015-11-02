@@ -10,5 +10,7 @@ git commit -m 'say what you did'
 
 git push
 
+mv - to change file name  mv file name.git - change to - file name.txt
+
 
 
