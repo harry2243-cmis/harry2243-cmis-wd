@@ -1,0 +1,27 @@
+First, you need to have the terminal software. Then, you need to have a account on github.com. Github.com example - email1234-cmis
+
+Second, you make a same respository file but just add 'wd' at the end. For example : email1234-cmis-wd
+
+Third, you go into your respositor page and there will be a url at the botto right, just copy that file.
+
+Fourth, open terminal, and paste your url/clone, into terminal. Cloning is for gathering information of the website to connect with terminal. (Shift Insert is how you paste in terminal.)
+
+Fifth, You can check if you are in your account by typing 'ls'.
+
+Next, you need to get into your folder, by doing that, you have to enter 'cd email1234-cmis-wd', and you'll be in your folder.
+
+Sixth,you can make a text file by entering 'gedit 'and your file name'.' And your text file should pop up, and start your typing!
+
+Seventh, after you finish typing, you enter 'git add 'name of your file'.'
+
+Eighth, enter 'git commit -m 'type in what you did on the file'.' Then your terminal should start to process.
+
+Ninth, you enter 'git push'. It will tell you to enter your github username, and your password. Your password will not be shown, just to keep it private.
+
+Finally, everything should process, and everything is done!
+
+
+
+
+
+
