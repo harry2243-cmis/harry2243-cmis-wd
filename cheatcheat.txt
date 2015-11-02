@@ -1,0 +1,14 @@
+ls
+
+clone
+
+cd cmis2243-cmis-wd
+
+gedit filename
+
+git commit -m 'say what you did'
+
+git push
+
+
+
