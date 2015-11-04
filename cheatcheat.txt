@@ -12,5 +12,7 @@ git push
 
 mv - to change file name  mv file name.git - change to - file name.txt
 
+add python -m SimpleHTTPServer
 
+enter 'localhost:8000"
 
