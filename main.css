@@ -3,7 +3,7 @@ header {
   color:#FFFF00;
   font-size:70px;
 }
-nav {
+h1 {
  font-family:"Comic Sans MS", cursive, sans-serif;
  color:#FFFF00;
  font-size:35px;
@@ -11,12 +11,19 @@ nav {
  border:double 3px #FF0000;
 
 }
-main {
+h2 {
  font-family:"Trebuchet MS", Helvetica, sans-serif;
  color:#FFFF00;
  font-size:18px;
  background-color:#000000;
  border:double 3px #FF0000;
+
+}
+nav {
+ 
+}
+main {
+ 
 
 }
 footer {
@@ -27,10 +34,34 @@ footer {
  border:double 3px #FF0000;
 
 }
-body {
- background-color:#FF0000;
+h3 {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#C80000;
+ font-size:60px;
+ background-color:yellow;
+ border:double 3px #FF0000;
+ border-color:red;
 
 }
+h4 {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#C80000;
+ font-size:20px;
+ background-color:yellow;
+ border:double 3px #FF0000;
+ border-color:red;
+
+}
+body {
+ background-color:#FF0000;
+ margin:1cm;
+ border-style:outset;
+ border-color:silver;
+ border-width:20px;
+ 
+ 
+}
+
 
 Requirements
 
