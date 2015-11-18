@@ -19,11 +19,20 @@ sftp Commands
 
 sftp username@cmis-hsteacher 
 ls - same as terminal
-cd - same as terminal
+cd public_html
 prepend a command with ! to execute it on local
 put <filename> - upload a file
 get <filename> - upload a file
+rm "file name" - remove file
+mkdir "foldername"
+exit
 
 enter 'localhost:8000"
+
+mkdir "folder name" - make new folder
+
+cd "folder name" - brings u in the folder
+
+
 
 
