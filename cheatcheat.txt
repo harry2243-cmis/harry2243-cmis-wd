@@ -32,6 +32,9 @@ enter 'localhost:8000"
 mkdir "folder name" - make new folder
 
 cd "folder name" - brings u in the folder
+
+cd .. - exit folder
+
 href
 
 ..

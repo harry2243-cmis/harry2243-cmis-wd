@@ -14,10 +14,17 @@ h1 {
 h2 {
  font-family:"Trebuchet MS", Helvetica, sans-serif;
  color:#FFFF00;
- font-size:18px;
+ font-size:30px;
  background-color:#000000;
  border:double 3px #FF0000;
 
+}
+p {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:#000000;
+ border:double 3px #FF0000;
 }
 nav {
  
@@ -70,7 +77,12 @@ body {
  
  
 }
-
+header1 {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:#000000;
+ border:double 3px #FF0000;
 
 Requirements
 
