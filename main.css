@@ -27,7 +27,11 @@ p {
  border:double 3px #FF0000;
 }
 nav {
- 
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:;
+ border:double 3px #FF0000;
 }
 main {
  
@@ -83,7 +87,21 @@ header1 {
  font-size:18px;
  background-color:#000000;
  border:double 3px #FF0000;
-
+}
+li {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:#000000;
+ border:double 3px #FF0000;
+}
+h3 {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:#000000;
+ border:double 3px #FF0000;
+}
 Requirements
 
 *Create a new file called "main.css"
