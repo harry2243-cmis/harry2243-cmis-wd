@@ -1,0 +1,22 @@
+border {
+ border-style:solid;
+}
+margin {
+ margin-top:100px;
+ margin-bottom:100px;
+ margin-right:150px;
+ margin-left:80px;
+}
+padding {
+ padding-top:50px;
+ padding-right:30px;
+ padding-bottom:50px;
+ padding-left:80px;
+}
+width {
+ width:100px;
+}
+height {
+ height: 100px;
+}
+
