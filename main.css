@@ -102,6 +102,13 @@ h3 {
  background-color:#000000;
  border:double 3px #FF0000;
 }
+p1 {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:#000000;
+ border:double 3px #FF0000;
+}
 Requirements
 
 *Create a new file called "main.css"
