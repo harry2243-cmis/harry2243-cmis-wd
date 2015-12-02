@@ -1,19 +1,19 @@
-border {
+h1 {
  border-style:solid;
 }
-margin {
- margin-top:100px;
- margin-bottom:100px;
- margin-right:150px;
- margin-left:80px;
+nav {
+ margin-top:5px;
+ margin-bottom:5px;
+ margin-right:5px;
+ margin-left:5px;
 }
-padding {
+ol {
  padding-top:50px;
  padding-right:30px;
  padding-bottom:50px;
  padding-left:80px;
 }
-width {
+ul {
  width:100px;
 }
 height {
