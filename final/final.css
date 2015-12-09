@@ -1,0 +1,21 @@
+body {
+ background-color:green;
+ margin:1cm;
+ border-style:outset;
+ border-color:silver;
+ border-width:20px;
+}
+h1 {
+ font-family:"Comic Sans MS", cursive, sans-serif;
+ color:#FFFF00;
+ font-size:35px;
+ background-color:#000000;
+ border:double 3px #FF0000;
+}
+nav {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+ color:#FFFF00;
+ font-size:18px;
+ background-color:;
+ border:double 3px #FF0000;
+}
