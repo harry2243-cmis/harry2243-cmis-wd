@@ -30,7 +30,6 @@ nav {
  font-family:"Trebuchet MS", Helvetica, sans-serif;
  color:#FFFF00;
  font-size:18px;
- background-color:;
  border:double 3px #FF0000;
 }
 main {
@@ -103,7 +102,7 @@ h3 {
  border:double 3px #FF0000;
 }
 
-Requirements
+/*Requirements
 
 *Create a new file called "main.css"
 *Add a link element to the head of your index.html file
@@ -118,5 +117,5 @@ Requirements
 *Validate your main.css file.
 *Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 *Upload to the production server with sftp.
-*View your index.html in the production server.
+*View your index.html in the production server.*/
 
