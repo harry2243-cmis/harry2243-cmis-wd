@@ -19,4 +19,13 @@ ul {
 height {
  height: 100px;
 }
+div ~ p {
+    background-color: blue;
+}
+div + p {
+    background-color: blue;
+}
+div p {
+    background-color: blue;
+}
 
