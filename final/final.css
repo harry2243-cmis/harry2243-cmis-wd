@@ -1,21 +1,44 @@
 body {
- background-color:;
- margin:;
- border-style:;
- border-color:;
- border-width:;
+ background-image:url("http://www.danielleemusicstudio.com/wp-content/uploads/2014/05/simple-background-12.jpg")
 }
-h1 {
- font-family:";
- color:;
- font-size:;
- background-color:;
- border:;
+nav{
+width:400px;
+float:left;
+border:1px solid;
 }
-nav {
- font-family:";
- color:;
- font-size:;
- background-color:;
- border:;
+main{
+border:3px solid;
+border-color:orange;
+margin-left:401px;
+font-family:'Source Sans Pro',sans-serif;
+}
+p{
+border:2px dotted;
+border-color:red;
+padding:0cm 10cm 0cm 1cm;
+color:blue;
+font-size:30px;
+}
+h1{
+font-family: 'Anton',sans-serif;
+border:1px solid;
+padding:0cm 2cm 0cm 2cm;
+color:red;
+font-size:55px;
+}
+img{
+border:2px solid;
+border-color:white;
+}
+
+ul{
+color:red;
+font-size:25px;
+}
+h2{
+font-size:45px;
+color:yellow;
+}
+p.new{
+color:yellow;
 }
